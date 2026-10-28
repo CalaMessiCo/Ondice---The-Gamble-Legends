@@ -1,0 +1,6 @@
+{
+  "name": "Ondice",
+  "description": "Trò chơi xúc xắc Ondice may rủi chiến thuật với các tổ hợp đơn, đôi, tam, tứ, phản công bốc lửa, gói VIP/MAX và phòng chơi trò chuyện micro.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
